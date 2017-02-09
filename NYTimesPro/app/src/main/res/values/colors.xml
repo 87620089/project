@@ -3,4 +3,9 @@
     <color name="colorPrimary">#91308c</color>
     <color name="colorPrimaryDark">#461644</color>
     <color name="colorAccent">#e81e63</color>
+
+
+    <color name="nav_header_bg_color">#91308c</color>
+
+    <color name="white">#ffffff</color>
 </resources>
